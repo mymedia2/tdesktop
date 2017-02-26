@@ -16,7 +16,7 @@ present document.
      automatic launching.
 
   * `-many`:
-    Allows to run multiple instances of the client at the same time.
+    Allow multiple instances of the client to run at the same time.
 
   * `-debug`:
     Run in debug mode immediately. See logs in
